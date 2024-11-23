@@ -1,0 +1,7 @@
+flutter_native_splash:
+  android: true
+  ios: true
+  web: false
+
+  # color: "#658F60"
+  background_image: "assets/image/mazaya_logo.jpg"
